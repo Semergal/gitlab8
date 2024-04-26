@@ -13,6 +13,9 @@
 1. `Выполнение команд из задания `
 ![alt text](http://net1.local/root/gitlab_8_03/-/blob/main/img/Screenshot_1.jpg?ref_type=heads)
 ![alt text](http://net1.local/root/gitlab_8_03/-/blob/main/img/Screenshot_1.jpg?ref_type=heads)
+
+
+
 ### Задание 2
  
 Запушьте репозиторий на GitLab, изменив origin. Это изучалось на занятии по Git.
@@ -24,23 +27,8 @@
 
 
 ```
-
+![alt text](http://net1.local/root/gitlab_8_03/-/blob/main/img/Screenshot_3.jpg?ref_type=heads)
 ```
-
----
-
-### Задание 3
-
-Что нужно сделать:
-
-Установите на машину Nexus.
-Создайте raw-hosted репозиторий.
-Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
-Загрузите файл в репозиторий с помощью jenkins.
-В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
-
-![alt text](https://github.com/Semergal/8-03-hw/blob/main/img/Screenshot_5.jpg)
-![alt text](https://github.com/Semergal/8-03-hw/blob/main/img/Screenshot_6.jpg)
 
 ```
 
